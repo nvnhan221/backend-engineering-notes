@@ -77,6 +77,7 @@ nav:
     - Retries and DLQ: messaging/retries-dlq.md
   - Examples:
     - examples/index.md
+    - Kafka Java Examples: examples/kafka-java.md
     - Kafka Outbox: examples/kafka-outbox.md
     - RabbitMQ Retry DLX: examples/rabbitmq-retry-dlx.md
     - REST API Example: examples/rest-api-example.md

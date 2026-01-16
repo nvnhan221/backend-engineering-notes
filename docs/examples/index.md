@@ -4,23 +4,15 @@ Code examples and snippets for common backend engineering tasks.
 
 ## Available Examples
 
+### Messaging Examples
+
+- [Kafka Java Examples](kafka-java.md) - Complete Kafka examples with Java
+- [Kafka Outbox Pattern](kafka-outbox.md) - Transactional outbox pattern
+- [RabbitMQ Retry DLX](rabbitmq-retry-dlx.md) - Retry with Dead Letter Exchange
+
 ### API Examples
 
 - [REST API Example](rest-api-example.md) - Complete REST API implementation
-- [GraphQL Example](graphql-example.md) - GraphQL server setup
-- [WebSocket Example](websocket-example.md) - Real-time communication
-
-### Database Examples
-
-- [SQL Queries](sql-queries.md) - Common SQL patterns
-- [ORM Examples](orm-examples.md) - Object-Relational Mapping examples
-- [Migrations](migrations.md) - Database migration scripts
-
-### Authentication Examples
-
-- [JWT Authentication](jwt-auth.md) - JSON Web Token implementation
-- [OAuth2](oauth2.md) - OAuth2 flow examples
-- [Session Management](sessions.md) - Session handling
 
 ## Example Structure
 
