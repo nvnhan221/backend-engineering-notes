@@ -65,6 +65,30 @@
          <lastmod>2026-01-16</lastmod>
     </url>
     <url>
+         <loc>https://your-username.github.io/backend-engineering-notes/java/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://your-username.github.io/backend-engineering-notes/java/best-practices/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://your-username.github.io/backend-engineering-notes/java/collections/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://your-username.github.io/backend-engineering-notes/java/concurrency/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://your-username.github.io/backend-engineering-notes/java/java-basics/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://your-username.github.io/backend-engineering-notes/java/streams/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
          <loc>https://your-username.github.io/backend-engineering-notes/messaging/</loc>
          <lastmod>2026-01-16</lastmod>
     </url>
@@ -94,6 +118,38 @@
     </url>
     <url>
          <loc>https://your-username.github.io/backend-engineering-notes/security/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://your-username.github.io/backend-engineering-notes/spring-boot/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://your-username.github.io/backend-engineering-notes/spring-boot/best-practices/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://your-username.github.io/backend-engineering-notes/spring-boot/configuration/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://your-username.github.io/backend-engineering-notes/spring-boot/data-access/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://your-username.github.io/backend-engineering-notes/spring-boot/getting-started/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://your-username.github.io/backend-engineering-notes/spring-boot/rest-apis/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://your-username.github.io/backend-engineering-notes/spring-boot/security/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://your-username.github.io/backend-engineering-notes/spring-boot/testing/</loc>
          <lastmod>2026-01-16</lastmod>
     </url>
 </urlset>
