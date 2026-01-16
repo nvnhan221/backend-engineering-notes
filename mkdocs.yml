@@ -85,6 +85,12 @@ nav:
     - microservices/index.md
   - Data:
     - data/index.md
+  - DevOps:
+    - devops/index.md
+    - Docker: devops/docker.md
+    - Kubernetes & AKS: devops/kubernetes-aks.md
+    - CI/CD: devops/cicd.md
+    - GitHub Actions: devops/github-actions.md
   - Observability:
     - observability/index.md
   - Reliability:
