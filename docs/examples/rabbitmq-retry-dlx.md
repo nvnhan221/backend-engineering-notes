@@ -207,7 +207,7 @@ for queue in retry_queues:
 
 - [RabbitMQ](../messaging/rabbitmq.md)
 - [Retries and DLQ](../messaging/retries-dlq.md)
-- [Examples Code](../../examples/rabbitmq-retry-dlx/)
+- [Examples Code](https://github.com/nvnhan221/backend-engineering-notes/tree/main/examples/rabbitmq-retry-dlx)
 
 ---
 

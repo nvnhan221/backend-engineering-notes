@@ -146,7 +146,7 @@ def process_outbox():
 
 - [Kafka](../messaging/kafka.md)
 - [Idempotency](../foundations/idempotency.md)
-- [Examples Code](../../examples/kafka-outbox/)
+- [Examples Code](https://github.com/nvnhan221/backend-engineering-notes/tree/main/examples/kafka-outbox)
 
 ---
 

@@ -509,7 +509,7 @@ props.put(ConsumerConfig.FETCH_MAX_WAIT_MS_CONFIG, 500);
 
 ## Running the Examples
 
-See the [complete Java example project](../../examples/kafka-java/) for runnable code.
+See the [complete Java example project](https://github.com/nvnhan221/backend-engineering-notes/tree/main/examples/kafka-java) for runnable code.
 
 ## Further Reading
 

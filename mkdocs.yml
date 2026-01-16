@@ -93,6 +93,8 @@ nav:
     - security/index.md
   - ADR:
     - adr/index.md
+  - Guides:
+    - guides/index.md
   - Getting Started:
     - Installation: getting-started/installation.md
     - Quick Start: getting-started/quick-start.md
