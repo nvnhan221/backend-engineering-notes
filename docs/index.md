@@ -21,6 +21,8 @@ Docs-as-code is a documentation methodology that treats documentation like sourc
 - [Examples](examples/index.md) - Practical code examples
 - [Microservices](microservices/index.md) - Microservices architecture
 - [Data](data/index.md) - Database and data management
+- [Java](java/index.md) - Java programming fundamentals
+- [Spring Boot](spring-boot/index.md) - Spring Boot framework
 - [Observability](observability/index.md) - Monitoring, logging, and tracing
 - [Reliability](reliability/index.md) - Building resilient systems
 - [Security](security/index.md) - Security best practices

@@ -89,6 +89,22 @@ nav:
     - observability/index.md
   - Reliability:
     - reliability/index.md
+  - Java:
+    - java/index.md
+    - Java Basics: java/java-basics.md
+    - Collections: java/collections.md
+    - Concurrency: java/concurrency.md
+    - Streams API: java/streams.md
+    - Best Practices: java/best-practices.md
+  - Spring Boot:
+    - spring-boot/index.md
+    - Getting Started: spring-boot/getting-started.md
+    - REST APIs: spring-boot/rest-apis.md
+    - Data Access: spring-boot/data-access.md
+    - Security: spring-boot/security.md
+    - Configuration: spring-boot/configuration.md
+    - Testing: spring-boot/testing.md
+    - Best Practices: spring-boot/best-practices.md
   - Security:
     - security/index.md
   - ADR:
